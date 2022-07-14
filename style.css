@@ -16,7 +16,7 @@ body {
 }
 
  .data_container {
-    width: 600px;
+    width: 900px;
     height: 450px;
     position: relative;
     margin: 0 auto;
@@ -41,7 +41,6 @@ body {
  .btn1 {
      padding: 3px 12px;
     margin-left: 32em;
-    margin-top: 30px;
     border-radius: 15px;
     background-color: wheat;
     font-weight: bold;
@@ -51,18 +50,23 @@ body {
 
  .btn2 {
     padding: 3px 12px;
-     margin-left: 12em;
+     margin-left: 60em;
+     margin-top: -22px;
+     margin-right: 20em;
      border-radius: 15px;
      background-color: wheat;
      font-weight: bold;
+     max-width:fit-content;
  }
  
  .btn3 {
    padding: 3px 12px;
+   margin-top: 40px;
     margin-left: 12em;
     border-radius: 15px;
     background-color: wheat;
     font-weight: bold;
 }
+
 
 
