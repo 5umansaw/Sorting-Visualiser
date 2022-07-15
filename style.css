@@ -1,7 +1,7 @@
   
 body {
     margin: 0;
-    background-color: rgb(250, 250, 250);
+    background-color: rgb(255, 255, 255);
     font-family: Verdana, sans-serif;
 }
 
@@ -12,7 +12,7 @@ body {
    text-align: center;
    color: rgb(2, 44, 56);
    border-radius: 15px;
-   background-color: burlywood;
+   background-color: rgb(200, 169, 129);
 }
 
  .data_container {
